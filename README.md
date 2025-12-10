@@ -1,5 +1,5 @@
 # mis583-group10
-# 專案簡介
+## 專案簡介
 本專案旨在評估 Grounded-SAM (結合 GroundingDINO 與 SAM) 以及 CLIP-guided SAM 兩模型在自建的 COCO 2017 驗證集子集 (Mini-subset) 上的表現。
 
 我們特別聚焦於 多粒度提示詞工程 (Multi-Granularity Prompt Engineering) 的影響，測試不同層級的文字描述（粗粒度、屬性描述、細緻描述）如何影響模型的語意分割 (Segmentation) 準確度。
@@ -34,7 +34,7 @@
   CLIP-guided SAM_attribute_results/
   CLIP-guided SAM_fine_grained_results/
 
-## 🚀 執行方式
+## 執行方式
 1. Clone 此專案至本地端或 Colab。
 2. 安裝必要的依賴套件 (請參考 Notebook 中的第一個 Cell)：
    - segment_anything (SAM)
