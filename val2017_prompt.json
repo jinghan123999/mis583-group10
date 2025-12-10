@@ -1,0 +1,602 @@
+[
+  {
+    "id": "001",
+    "image_filename": "000000006954.jpg",
+    "coco_original_id": 6954,
+    "primary_category": "Person/Sports",
+    "prompts": {
+      "coarse": "A photo of people playing a sport.",
+      "attribute": "A photo of **several people on a field** with sports equipment.",
+      "fine_grained": "A group of people are gathered on a grassy field, some holding equipment, possibly preparing for a game."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "002",
+    "image_filename": "000000009400.jpg",
+    "coco_original_id": 9400,
+    "primary_category": "Person/Office",
+    "prompts": {
+      "coarse": "A photo of people working.",
+      "attribute": "A photo of **people sitting at desks with laptops** and other office supplies.",
+      "fine_grained": "Multiple people are working in an office environment, typing on laptops with cups and other items on the tables."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "003",
+    "image_filename": "000000025394.jpg",
+    "coco_original_id": 25394,
+    "primary_category": "Food/Meal",
+    "prompts": {
+      "coarse": "A photo of people eating.",
+      "attribute": "A photo of **people gathered around a table with food** and drinks.",
+      "fine_grained": "A group of friends enjoying a meal together, with bottles, cups, and plates of food visible on the table."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "004",
+    "image_filename": "000000031248.jpg",
+    "coco_original_id": 31248,
+    "primary_category": "Indoor/Living Room",
+    "prompts": {
+      "coarse": "A photo of a living room.",
+      "attribute": "A photo of a **messy room with a couch, chairs, and many books**.",
+      "fine_grained": "A cluttered interior space featuring a sofa and chairs surrounded by numerous books and potted plants."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "005",
+    "image_filename": "000000031817.jpg",
+    "coco_original_id": 31817,
+    "primary_category": "Vehicle/Motorcycle",
+    "prompts": {
+      "coarse": "A photo of motorcycles.",
+      "attribute": "A photo of **people riding motorcycles** on a street.",
+      "fine_grained": "Motorcyclists riding their bikes on a road, with passengers and drivers visible."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "006",
+    "image_filename": "000000068078.jpg",
+    "coco_original_id": 68078,
+    "primary_category": "Indoor/Bathroom",
+    "prompts": {
+      "coarse": "A photo of a dog in a bathroom.",
+      "attribute": "A photo of a **dog sitting near a toilet and sink**.",
+      "fine_grained": "A small dog is sitting on the tiled floor of a bathroom, next to a white toilet and a sink with a bottle on it."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "007",
+    "image_filename": "000000084674.jpg",
+    "coco_original_id": 84674,
+    "primary_category": "Indoor/Living Room",
+    "prompts": {
+      "coarse": "A photo of a living room.",
+      "attribute": "A photo of **people relaxing on a couch** in front of a TV.",
+      "fine_grained": "A cozy living room where people are sitting on a sofa, watching a television set, with a clock visible in the background."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "008",
+    "image_filename": "000000085576.jpg",
+    "coco_original_id": 85576,
+    "primary_category": "Indoor/Bathroom",
+    "prompts": {
+      "coarse": "A photo of a toilet.",
+      "attribute": "A photo of a **white ceramic toilet** in a bathroom.",
+      "fine_grained": "A close-up view of a standard white toilet installed in a bathroom."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "009",
+    "image_filename": "000000087875.jpg",
+    "coco_original_id": 87875,
+    "primary_category": "Street/Utility",
+    "prompts": {
+      "coarse": "A photo of a fire hydrant.",
+      "attribute": "A photo of a **colorful fire hydrant** on a sidewalk.",
+      "fine_grained": "A street view showing a painted fire hydrant standing on the pavement."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "010",
+    "image_filename": "000000094336.jpg",
+    "coco_original_id": 94336,
+    "primary_category": "Animal/Pet",
+    "prompts": {
+      "coarse": "A photo of a cat.",
+      "attribute": "A photo of a **cat lying in a bathroom sink**.",
+      "fine_grained": "A cute cat resting comfortably inside a bathroom sink basin."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "011",
+    "image_filename": "000000097278.jpg",
+    "coco_original_id": 97278,
+    "primary_category": "Sport/Winter",
+    "prompts": {
+      "coarse": "A photo of a snowboarder.",
+      "attribute": "A photo of a **person snowboarding down a snowy slope**.",
+      "fine_grained": "An action shot of a snowboarder carving through the snow on a mountain slope."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "012",
+    "image_filename": "000000107087.jpg",
+    "coco_original_id": 107087,
+    "primary_category": "Animal/Pet",
+    "prompts": {
+      "coarse": "A photo of a cat and furniture.",
+      "attribute": "A photo of a **cat near a chair** and a car.",
+      "fine_grained": "A cat interacting with a chair, possibly outdoors as a car is visible in the background."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "013",
+    "image_filename": "000000125850.jpg",
+    "coco_original_id": 125850,
+    "primary_category": "Animal/Pet",
+    "prompts": {
+      "coarse": "A photo of a cat eating.",
+      "attribute": "A photo of a **cat near a bowl of food**.",
+      "fine_grained": "A household cat standing next to a food bowl, possibly eating or waiting to be fed."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "014",
+    "image_filename": "000000154087.jpg",
+    "coco_original_id": 154087,
+    "primary_category": "Sport/Winter",
+    "prompts": {
+      "coarse": "A photo of skiers.",
+      "attribute": "A photo of **people skiing on a mountain**.",
+      "fine_grained": "A group of people wearing ski gear and using skis on a snowy terrain."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "015",
+    "image_filename": "000000154431.jpg",
+    "coco_original_id": 154431,
+    "primary_category": "Indoor/Electronics",
+    "prompts": {
+      "coarse": "A photo of electronics.",
+      "attribute": "A photo of **remotes, books, and a vase** on a table.",
+      "fine_grained": "A collection of items including remote controls, several books, and a vase displayed on a surface."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "016",
+    "image_filename": "000000159458.jpg",
+    "coco_original_id": 159458,
+    "primary_category": "Indoor/Furniture",
+    "prompts": {
+      "coarse": "A photo of a dog on a bed.",
+      "attribute": "A photo of a **dog resting on a bed** near a chair.",
+      "fine_grained": "A dog lying comfortably on a bed in a bedroom, with a chair nearby."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "017",
+    "image_filename": "000000163117.jpg",
+    "coco_original_id": 163117,
+    "primary_category": "Sport/Kite",
+    "prompts": {
+      "coarse": "A photo of people flying kites.",
+      "attribute": "A photo of **many people flying kites** in a park.",
+      "fine_grained": "A crowded open space where numerous people are flying kites in the sky."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "018",
+    "image_filename": "000000175438.jpg",
+    "coco_original_id": 175438,
+    "primary_category": "Street/Traffic",
+    "prompts": {
+      "coarse": "A photo of city traffic.",
+      "attribute": "A photo of **cars and traffic lights** on a busy street.",
+      "fine_grained": "An urban street scene filled with cars stopped at traffic lights."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "019",
+    "image_filename": "000000210273.jpg",
+    "coco_original_id": 210273,
+    "primary_category": "Street/Transport",
+    "prompts": {
+      "coarse": "A photo of buses and cars.",
+      "attribute": "A photo of **many buses and cars** in traffic.",
+      "fine_grained": "A congested street with multiple public transit buses and private cars."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "020",
+    "image_filename": "000000218362.jpg",
+    "coco_original_id": 218362,
+    "primary_category": "Indoor/Wall",
+    "prompts": {
+      "coarse": "A photo of clocks.",
+      "attribute": "A photo of **several clocks** on a wall.",
+      "fine_grained": "A display of multiple clocks mounted on a wall, showing different times."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "021",
+    "image_filename": "000000233727.jpg",
+    "coco_original_id": 233727,
+    "primary_category": "Street/Cyclists",
+    "prompts": {
+      "coarse": "A photo of cyclists.",
+      "attribute": "A photo of **people riding bicycles** near a bus.",
+      "fine_grained": "A group of cyclists riding their bikes on a city street alongside a bus."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "022",
+    "image_filename": "000000237071.jpg",
+    "coco_original_id": 237071,
+    "primary_category": "Sport/Tennis",
+    "prompts": {
+      "coarse": "A photo of a tennis player.",
+      "attribute": "A photo of a **person holding a tennis racket** on a court.",
+      "fine_grained": "A tennis player standing on a court holding a racket, ready to play."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "023",
+    "image_filename": "000000240754.jpg",
+    "coco_original_id": 240754,
+    "primary_category": "Animal/Livestock",
+    "prompts": {
+      "coarse": "A photo of cows.",
+      "attribute": "A photo of **cows standing in a field**.",
+      "fine_grained": "Three cows grazing or standing in a grassy pasture."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "024",
+    "image_filename": "000000262440.jpg",
+    "coco_original_id": 262440,
+    "primary_category": "Indoor/Bathroom",
+    "prompts": {
+      "coarse": "A photo of a bathroom.",
+      "attribute": "A photo of a **sink and a toilet** with a bottle.",
+      "fine_grained": "A bathroom sink area with a bottle on the counter and a toilet nearby."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "025",
+    "image_filename": "000000278749.jpg",
+    "coco_original_id": 278749,
+    "primary_category": "Street/Handbag",
+    "prompts": {
+      "coarse": "A photo of people walking.",
+      "attribute": "A photo of **people carrying handbags** on a street.",
+      "fine_grained": "Pedestrians walking outdoors, with some carrying handbags and cars in the background."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "026",
+    "image_filename": "000000280325.jpg",
+    "coco_original_id": 280325,
+    "primary_category": "Street/Utility",
+    "prompts": {
+      "coarse": "A photo of a parking meter.",
+      "attribute": "A photo of a **parking meter** on a sidewalk.",
+      "fine_grained": "A lone parking meter standing on the side of a street."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "027",
+    "image_filename": "000000310980.jpg",
+    "coco_original_id": 310980,
+    "primary_category": "Indoor/Office",
+    "prompts": {
+      "coarse": "A photo of a workspace.",
+      "attribute": "A photo of a **laptop and keyboard** on a desk with a teddy bear.",
+      "fine_grained": "A desk setup featuring a laptop computer, a keyboard, and a small teddy bear decoration."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "028",
+    "image_filename": "000000313588.jpg",
+    "coco_original_id": 313588,
+    "primary_category": "Street/Rain",
+    "prompts": {
+      "coarse": "A photo of a person with an umbrella.",
+      "attribute": "A photo of a **person holding an umbrella** near cars and a truck.",
+      "fine_grained": "A street scene on a rainy day with a person walking under an umbrella amidst traffic including cars and a truck."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "029",
+    "image_filename": "000000335328.jpg",
+    "coco_original_id": 335328,
+    "primary_category": "Sport/Water",
+    "prompts": {
+      "coarse": "A photo of a surfer.",
+      "attribute": "A photo of a **person with a surfboard** on a beach.",
+      "fine_grained": "A surfer standing with their surfboard, possibly checking the waves on a beach."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "030",
+    "image_filename": "000000346968.jpg",
+    "coco_original_id": 346968,
+    "primary_category": "Indoor/Living Room",
+    "prompts": {
+      "coarse": "A photo of a room with books.",
+      "attribute": "A photo of a **chair in a room with many books**.",
+      "fine_grained": "A reading area featuring a chair and shelves filled with books."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "031",
+    "image_filename": "000000353051.jpg",
+    "coco_original_id": 353051,
+    "primary_category": "Animal/Farm",
+    "prompts": {
+      "coarse": "A photo of a horse and person.",
+      "attribute": "A photo of a **person with a horse**.",
+      "fine_grained": "A person standing next to holding the reins of a horse outdoors."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "032",
+    "image_filename": "000000372317.jpg",
+    "coco_original_id": 372317,
+    "primary_category": "Street/Transport",
+    "prompts": {
+      "coarse": "A photo of a bus.",
+      "attribute": "A photo of a **bus near a parking meter**.",
+      "fine_grained": "A large public transit bus driving past a parking meter on a city street."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "033",
+    "image_filename": "000000382111.jpg",
+    "coco_original_id": 382111,
+    "primary_category": "Street/Vehicles",
+    "prompts": {
+      "coarse": "A photo of traffic.",
+      "attribute": "A photo of **cars, trucks, and a horse**.",
+      "fine_grained": "Wait, a horse in traffic? A street scene with automobiles and a horse present."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "034",
+    "image_filename": "000000399296.jpg",
+    "coco_original_id": 399296,
+    "primary_category": "Food/Snack",
+    "prompts": {
+      "coarse": "A photo of hot dogs.",
+      "attribute": "A photo of a **person holding hot dogs**.",
+      "fine_grained": "Someone holding or preparing several hot dogs."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "035",
+    "image_filename": "000000402346.jpg",
+    "coco_original_id": 402346,
+    "primary_category": "Indoor/Decor",
+    "prompts": {
+      "coarse": "A photo of a vase.",
+      "attribute": "A photo of **vases and a bowl**.",
+      "fine_grained": "Decorative vases and a bowl displayed on a table or shelf."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "036",
+    "image_filename": "000000404922.jpg",
+    "coco_original_id": 404922,
+    "primary_category": "Sport/Tennis",
+    "prompts": {
+      "coarse": "A photo of tennis players.",
+      "attribute": "A photo of **people with tennis rackets**.",
+      "fine_grained": "Tennis players holding their rackets on a court."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "037",
+    "image_filename": "000000416451.jpg",
+    "coco_original_id": 416451,
+    "primary_category": "Indoor/Living Room",
+    "prompts": {
+      "coarse": "A photo of a cluttered room.",
+      "attribute": "A photo of a **room with books, remotes, and bottles**.",
+      "fine_grained": "A living space filled with various items like books, remote controls, bottles, and furniture."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "038",
+    "image_filename": "000000421757.jpg",
+    "coco_original_id": 421757,
+    "primary_category": "Outdoor/Water",
+    "prompts": {
+      "coarse": "A photo of boats.",
+      "attribute": "A photo of **boats on the water** with a person nearby.",
+      "fine_grained": "Several boats floating on the water near a person."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "039",
+    "image_filename": "000000432553.jpg",
+    "coco_original_id": 432553,
+    "primary_category": "Animals/Dog",
+    "prompts": {
+      "coarse": "A photo of a dog and person.",
+      "attribute": "A photo of a **person with a dog and bicycle**.",
+      "fine_grained": "A scene showing a person accompanied by a dog, with a bicycle and bench nearby."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "040",
+    "image_filename": "000000453841.jpg",
+    "coco_original_id": 453841,
+    "primary_category": "Street/Traffic",
+    "prompts": {
+      "coarse": "A photo of an intersection.",
+      "attribute": "A photo of **traffic lights, cars, and a truck**.",
+      "fine_grained": "A busy street intersection controlled by traffic lights with various vehicles passing through."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "041",
+    "image_filename": "000000474039.jpg",
+    "coco_original_id": 474039,
+    "primary_category": "Toy/Plush",
+    "prompts": {
+      "coarse": "A photo of a teddy bear.",
+      "attribute": "A photo of a **teddy bear with a person**.",
+      "fine_grained": "A large plush teddy bear sitting with a person."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "042",
+    "image_filename": "000000492937.jpg",
+    "coco_original_id": 492937,
+    "primary_category": "Vehicle/Train",
+    "prompts": {
+      "coarse": "A photo of a train.",
+      "attribute": "A photo of a **train with people and a bicycle** nearby.",
+      "fine_grained": "A train station or track area with a train, people, and a bicycle."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "043",
+    "image_filename": "000000505169.jpg",
+    "coco_original_id": 505169,
+    "primary_category": "Indoor/Bathroom",
+    "prompts": {
+      "coarse": "A photo of a toilet.",
+      "attribute": "A photo of a **toilet**.",
+      "fine_grained": "A bathroom featuring a toilet."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "044",
+    "image_filename": "000000507473.jpg",
+    "coco_original_id": 507473,
+    "primary_category": "Indoor/Personal",
+    "prompts": {
+      "coarse": "A photo of a toothbrush.",
+      "attribute": "A photo of a **person holding a toothbrush** and phone.",
+      "fine_grained": "A person holding a toothbrush, possibly taking a selfie or looking at a cellphone."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "045",
+    "image_filename": "000000530836.jpg",
+    "coco_original_id": 530836,
+    "primary_category": "Food/Fruit",
+    "prompts": {
+      "coarse": "A photo of fruit.",
+      "attribute": "A photo of **bowls of fruit including apples and bananas**.",
+      "fine_grained": "A table setting with bowls containing fresh fruits like apples and bananas."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "046",
+    "image_filename": "000000534639.jpg",
+    "coco_original_id": 534639,
+    "primary_category": "Street/Train",
+    "prompts": {
+      "coarse": "A photo of a train.",
+      "attribute": "A photo of a **train approaching a traffic light**.",
+      "fine_grained": "A train moving along tracks near a traffic signal and a car."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "047",
+    "image_filename": "000000537153.jpg",
+    "coco_original_id": 537153,
+    "primary_category": "Park/Relaxation",
+    "prompts": {
+      "coarse": "A photo of people outdoors.",
+      "attribute": "A photo of **people sitting on a bench**.",
+      "fine_grained": "Two people relaxing on a wooden bench in an outdoor setting."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "048",
+    "image_filename": "000000541123.jpg",
+    "coco_original_id": 541123,
+    "primary_category": "Sport/Tennis",
+    "prompts": {
+      "coarse": "A photo of a tennis match.",
+      "attribute": "A photo of **people playing tennis**.",
+      "fine_grained": "Several people on a tennis court, holding rackets and playing."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "049",
+    "image_filename": "000000546325.jpg",
+    "coco_original_id": 546325,
+    "primary_category": "Indoor/Living Room",
+    "prompts": {
+      "coarse": "A photo of a living room.",
+      "attribute": "A photo of a **couch and dining table**.",
+      "fine_grained": "An interior room featuring a comfortable couch and a dining table with chairs."
+    },
+    "model_predictions": []
+  },
+  {
+    "id": "050",
+    "image_filename": "000000574425.jpg",
+    "coco_original_id": 574425,
+    "primary_category": "Vehicle/Bus",
+    "prompts": {
+      "coarse": "A photo of buses.",
+      "attribute": "A photo of **buses** in traffic.",
+      "fine_grained": "Multiple public transport buses driving on a road."
+    },
+    "model_predictions": []
+  }
+]
